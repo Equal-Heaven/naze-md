@@ -65,8 +65,7 @@ global.myytv = 'https://youtu.be/FAsL-Jy4qLc'
 global.mygc = "https://chat.whatsapp.com/Dm9A0p3YSKrEWOAR5bINPa"
 
 // Engak Ngaruh, Belum Kepasang
-global.botname = '꧁༒ ⛈
-̶D̶̶A̶̶R̶̶K̶̶S̶̶I̶̶D̶̶E̶ ⛈ ༒꧂'
+global.botname = 'ANONYMOUS'
 global.akulaku = 'Bot By ༒卐࿈﻿  ᄂΣᄂᄂӨЦᄃΉΣ  ࿈﻿卐༒'
 global.ytname = 'YT NAZE' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
 
