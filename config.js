@@ -19,11 +19,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285875158363']
-global.ownernomer = "6285875158363"
-global.premium = ['6285875158363']
-global.packname = 'Sticker By'
-global.author = 'Naze Dev'
+global.owner = ['242068312525']
+global.ownernomer = "242068312525"
+global.premium = ['242068312525,242064064148']
+global.packname = 'ᗰᗩᗪᗴ ᗷY'
+global.author = '𝗕𝗥𝗬𝗔𝗡𝗕𝗚'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
@@ -34,18 +34,18 @@ global.sp = ''
 // Setting Mess
 global.mess = {
     success: '✅Done',
-    admin: 'Fitur Khusus Admin Group!',
-    botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
-    premime: 'Fitur Khusus Premium Kalo Mau Daftar Ketik Sewa / Chat Owner',
-    owner: 'Fitur Khusus Owner Bot',
-    group: 'Fitur Digunakan Hanya Untuk Group!',
-    private: 'Fitur Digunakan Hanya Untuk Private Chat!',
-    bot: 'Fitur Khusus Pengguna Nomor Bot',
-    wait: 'Loading...',
-    error: 'Error!',
-    errapi: 'Error Mungkin Apikey Tidak Valid!',
-    errmor: 'Error Kesalahan Sistem',
-    endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
+    admin: 'Vous Devez etre un  Admin du Groupe!',
+    botAdmin: 'Seule Bryan peut executer cette commande!',
+    premime: 'Cette commande n est utilisable que par Nicolas ou BRYAN ',
+    owner: 'Cette fonctionnalité n est disponible que pour BRYAN ',
+    group: '*Les fonctionnalités* sont utilisées uniquement pour les groupes!',
+    private: 'Les fonctionnalités* sont utilisées uniquement pour *les discussions privé* !',
+    bot: 'Cette commande n est disponible que pour le numero du bot',
+    wait: '*Chargement...*',
+    error: 'Erreur Detecté!',
+    errapi: 'Erreur apikey demander !',
+    errmor: 'Erreur du *SYSTEME*',
+    endLimit: 'Votre limite quotidienne a expiré, la limite sera réinitialisée toutes les 12 heures',
 }
 
 // Limit
@@ -62,11 +62,11 @@ global.faall = fs.readFileSync('./media/image/fake.jpg')
 global.mygit = 'https://github.com/nazedev'
 global.myyt = 'https://youtube.com/c/Nazedev'
 global.myytv = 'https://youtu.be/FAsL-Jy4qLc'
-global.mygc = "https://chat.whatsapp.com/Cp1OJenk6Q9D9vgLjLU558"
+global.mygc = "https://chat.whatsapp.com/Dm9A0p3YSKrEWOAR5bINPa"
 
 // Engak Ngaruh, Belum Kepasang
-global.botname = 'NAZE BOT'
-global.akulaku = 'Bot By Naze'
+global.botname = 'Itachi'
+global.akulaku = 'Bot By ༒卐࿈﻿  ᄂΣᄂᄂӨЦᄃΉΣ  ࿈﻿卐༒'
 global.ytname = 'YT NAZE' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
 
 
